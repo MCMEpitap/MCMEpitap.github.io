@@ -2,9 +2,12 @@ body {
     background-color: rgba(127, 127, 127, 0.5);
   }
   p1 {
-    color: rgb(255, 255, 255);
+    padding: 1rem 2rem;
     text-align: center;
-    font-size: 30px;
+    color: #fff;
+    background: #094;
+    -webkit-box-shadow: 5px 5px 0 #007032;
+    box-shadow: 5px 5px 0 #007032;
   }
   p2 {
     color: rgb(255, 255, 255);
