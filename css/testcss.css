@@ -1,12 +1,12 @@
 body {
     background-color: rgba(127, 127, 127, 0.5);
   }
-  title {
+  a {
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 30px;
   }
-  sub {
+  b {
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 25px;
