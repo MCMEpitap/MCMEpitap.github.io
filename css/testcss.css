@@ -1,12 +1,12 @@
 body {
     background-color: rgba(127, 127, 127, 0.5);
   }
-  a {
+  p1 {
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 30px;
   }
-  b {
+  p2 {
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 25px;
